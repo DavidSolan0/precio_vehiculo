@@ -50,6 +50,7 @@ Este repositorio contiene un conjunto de scripts y herramientas para el preproce
 
 El proyecto está estructurado de la siguiente manera:
 
+```
 precio_vehiculos/
 │
 ├── src/
@@ -63,7 +64,7 @@ precio_vehiculos/
 │
 ├── README.md
 └── requirements.txt
-
+```
 
 - **src/**: Esta carpeta contiene los scripts de Python para el preprocesamiento de datos.
   - `cluster_categorical_features.py`: Contiene una clase para reducir el número de categorías para variables cualitativas con muchas categorías.
